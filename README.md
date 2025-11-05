@@ -47,3 +47,8 @@ This project is released as a **Defensive Publication** under the [MIT License](
 
 **Active | Phase 34.3**  
 Maintained by The Forge / LucidLock Research Architecture  
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Phase: 34.3](https://img.shields.io/badge/Forge_Phase-34.3-purple)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+
