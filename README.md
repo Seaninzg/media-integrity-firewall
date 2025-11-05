@@ -48,7 +48,10 @@ This project is released as a **Defensive Publication** under the [MIT License](
 **Active | Phase 34.3**  
 Maintained by The Forge / LucidLock Research Architecture  
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Phase: 34.3](https://img.shields.io/badge/Forge_Phase-34.3-purple)
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+## 🔖 Badges
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17536802.svg)](https://doi.org/10.5281/zenodo.17536802)  
+[![IPFS: Active](https://img.shields.io/badge/IPFS-active-brightgreen)](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreihx7sqrvzggax7e37i5frbzgrtwdh4fnwlfgyyp5rkhwcxfmb35j4)  
+[![Forge Phase](https://img.shields.io/badge/Forge%20Phase-34.2-orange)]()
 
